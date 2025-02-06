@@ -1,0 +1,4 @@
+/* Custom style to fix vertical bar overflow */
+.document {
+    word-wrap: break-word;
+}
