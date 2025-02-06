@@ -2,6 +2,5 @@
 # Ignore everything in docs/_build
 docs/_build/*
 
-
 # Ignore all __pycache__ directories
 __pycache__/
